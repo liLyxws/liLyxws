@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/liLyxws/liLyxws/main/sqa.gif" width="1000">
   <img src="https://raw.githubusercontent.com/liLyxws/liLyxws/main/avt.gif" width="250">
@@ -55,7 +56,7 @@ const Ly = {
 
 
 <details>
-  <summary> <img width="25" height="27" alt="bar" src="https://github.com/user-attachments/assets/664a74bf-c75e-41e3-a2c3-af53d4648459" /> Github Stats</summary>
+  <summary> <img width="25" height="27" alt="bar" src="https://github.com/user-attachments/assets/8464fe47-1e28-4ddb-b9c7-93fd7efa4bc7" /> Github Stats</summary> 
   
   <p align="center">
     <img src="https://streak-stats.demolab.com/?user=liLyxws&theme=gotham&hide_border=false" />
@@ -69,7 +70,6 @@ const Ly = {
   <img width="65" height="54" alt="cat" src="https://github.com/user-attachments/assets/847f21a6-9ddc-4791-91e7-8f02663e78ea" />
   <br>
   <em><b>
-     Beginner | Bug Hunter | Code Dreamer <br>
      "Fall seven times, stand up eight."
   </b></em>
 </p>
