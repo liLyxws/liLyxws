@@ -63,6 +63,10 @@ const Ly = {
     &nbsp;&nbsp;&nbsp;
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=liLyxws&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   </p>
+  <br>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=liLyxws&label=Profile%20views&color=000000&style=for-the-badge" alt="liLyxws" />
+</p>
 </details>
 
 ---
@@ -74,8 +78,6 @@ const Ly = {
   </b></em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=liLyxws&label=Profile%20views&color=000000&style=for-the-badge" alt="liLyxws" />
-</p>
+
 
 
