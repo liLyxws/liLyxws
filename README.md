@@ -70,13 +70,7 @@ const Ly = {
 </details>
 
 ---
-<p align="center">
-  <img width="65" height="54" alt="cat" src="https://github.com/user-attachments/assets/847f21a6-9ddc-4791-91e7-8f02663e78ea" />
-  <br>
-  <em><b>
-     "Fall seven times, stand up eight."
-  </b></em>
-</p>
+
 
 
 
