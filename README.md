@@ -23,8 +23,6 @@ const Ly = {
 
   // current experience
   code: [, HTML, CSS, PHP, Javascript, Python],
-
-  tools: ["React", "Laravel"],
   
   // learning roadmap (future goals)
   goals: [
