@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/liLyxws/liLyxws/main/sqa.gif" width="1000">
-  <img src="https://raw.githubusercontent.com/liLyxws/liLyxws/main/avt.gif" width="250">
+
 <br>
   <a href="https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" />
